@@ -33,7 +33,8 @@ Este projeto é uma demonstração interativa dos personagens do anime One Piece
 Você pode acessar a demonstração do projeto no [GitHub Pages](https://lucascosta-code23.github.io/One-Piece/).
 
 ## Link Canal Dev em Dobo no YouTube
-https://www.youtube.com/@DevemDobro
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@DevemDobro)
+
 
 
 
